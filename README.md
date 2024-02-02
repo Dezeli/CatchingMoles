@@ -70,7 +70,7 @@ exe 파일 실행시 사진 및 음악파일의 경로를 알맞게 위치시켜
    ***
 ## 실행사진
 <center>
-      <img src="https://user-images.githubusercontent.com/63716450/105629273-5f738680-5e85-11eb-9878-c93fd13d9c17.PNG"  width="500" height="500">
+      <img src="https://github.com/Dezeli/CatchingMoles/assets/142760384/6ba8e6c7-5938-4596-8661-2ca03bf75fb3"  width="500" height="500">
 </center>
 <center>
       <img src="https://user-images.githubusercontent.com/63716450/105629276-613d4a00-5e85-11eb-94f8-98a4df94c447.PNG"  width="500" height="500">

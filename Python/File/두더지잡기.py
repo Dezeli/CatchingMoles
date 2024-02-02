@@ -112,13 +112,13 @@ class GameScreen:
         self.score_image = ImageTk.PhotoImage(file=self.score_img_path)
         start_button = Button(self.screen, command=self.GameStart)
         start_button.configure(image=self.start_image)
-        start_button.place(x=150, y=200)
+        start_button.place(x=150, y=180)
         score_button = Button(self.screen, command=self.Scoreboard)
         score_button.configure(image=self.score_image)
-        score_button.place(x=225, y=200)
+        score_button.place(x=225, y=180)
         exit_button = Button(self.screen, command=self.screen.destroy)
         exit_button.configure(image=self.exit_image)
-        exit_button.place(x=300, y=200)
+        exit_button.place(x=300, y=180)
 
         ###################################
 
@@ -243,7 +243,7 @@ class GameScreen:
 
         def _msgBox():
             tkinter.messagebox.showinfo(
-                "About", "Firoms가 처음 만드는 Gui 게임\n두더지잡기 게임인데 아직 부족하지만\n재밌게 플레이 해주세요"
+                "About", "Dezeli가 처음 만드는 Gui 게임\n두더지잡기 게임인데 아직 부족하지만\n재밌게 플레이 해주세요"
             )
 
         menu_bar = Menu(self.screen)
